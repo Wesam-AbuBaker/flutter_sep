@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       // مرة وحدة بستخدمه في المشروع بالكامل
-      title: 'Flutter Demo',
+      title: 'Flutter sep',
       debugShowCheckedModeBanner: false, // إخفاء علامة Debug
       theme: ThemeData(
           colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
